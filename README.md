@@ -5,8 +5,6 @@
 
 ---
 
-# 👩‍💻 Bruna Pontes Leal
-
 🎓 Estudante de Back-End  
 💻 Focada em desenvolvimento de sistemas  
 🚀 Buscando primeira oportunidade na área  
@@ -26,14 +24,6 @@ Estou construindo uma base sólida em programação e desenvolvimento back-end, 
   <img align="center" alt="NodeJS" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Python" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 </div>
-
----
-
-## 📊 Estatísticas
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight"/>
-</p>
 
 ---
 
