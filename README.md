@@ -1,6 +1,6 @@
 <!-- BANNER / ANIMAÇÃO -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=800&lines=Bruna+Pontes+Leal;Back-End+Developer+in+Progress;C%2B%2B+%7C+Java+%7C+Node.js+%7C+Python;Sempre+evoluindo+🚀">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=800&lines=Bruna+Pontes+Leal;Back-End+Developer+in+Progress+🚀">
 </p>
 
 ---
