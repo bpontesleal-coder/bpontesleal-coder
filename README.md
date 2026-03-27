@@ -17,7 +17,6 @@ Estou construindo uma base sólida em programação e desenvolvimento back-end, 
 
 ---
 
-## ⚙️ Meus interesses 
 <div style="display: inline_block"><br>
   <img align="center" alt="C++" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Java" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
