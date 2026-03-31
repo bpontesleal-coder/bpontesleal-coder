@@ -5,8 +5,8 @@
 
 ---
 
-🎓 Estudante de Back-End  
-💻 Focada em desenvolvimento de sistemas  
+🎓 Estudante com foco em Back-End  
+💻 Interesse em desenvolvimento de sistemas  
 🚀 Buscando primeira oportunidade na área  
 
 ---
