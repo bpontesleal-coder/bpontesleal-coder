@@ -26,7 +26,7 @@
 
 | Projeto | Descrição | Tecnologias | Links |
 |---|---|---|---|
-| **[StudyFlow](https://github.com/bpontesleal-coder/Study-Flow)** | Painel para estudantes organizarem objetivos de estudo, com prazos, status e taxa de conclusão | React · TypeScript · Tailwind | [Código](https://github.com/bpontesleal-coder/Study-Flow) |
+| **[StudyFlow](https://github.com/bpontesleal-coder/Study-Flow)** | Painel para estudantes organizarem objetivos de estudo, com prazos, status e taxa de conclusão | React · TypeScript · Tailwind | [Demo](https://bpontesleal-coder.github.io/Study-Flow/) · [Código](https://github.com/bpontesleal-coder/Study-Flow) |
 | **[Mini sistema de pedidos](https://github.com/bpontesleal-coder/mini-sistema-pedidos)** | Loja online com carrinho, quantidades, total do pedido e dados salvos no navegador | HTML · CSS · JavaScript | [Demo](https://bpontesleal-coder.github.io/mini-sistema-pedidos/) · [Código](https://github.com/bpontesleal-coder/mini-sistema-pedidos) |
 | **[Portfólio](https://github.com/bpontesleal-coder/bpontesleal-coder.github.io)** | Site pessoal com linha de evolução, dados do GitHub ao vivo e versão em inglês | HTML · CSS · JavaScript | [Site](https://bpontesleal-coder.github.io/) · [Código](https://github.com/bpontesleal-coder/bpontesleal-coder.github.io) |
 | **[Exercícios Beecrowd](https://github.com/bpontesleal-coder/Beecrowd-exercicios)** | Problemas de lógica e programação do juiz online beecrowd | C++ | [Código](https://github.com/bpontesleal-coder/Beecrowd-exercicios) |
